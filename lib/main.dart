@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:spotify_clone_flutter/common/features/splash/presentation/pages/splash.dart';
 import 'package:spotify_clone_flutter/core/config/theme/app_theme.dart';
+
+import 'features/splash/presentation/pages/splash.dart';
 
 void main() {
   runApp(const MyApp());
